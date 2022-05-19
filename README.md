@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/59255371/167994713-a80ac5d4-c1d9-4842-
 # 4.Add to cart and Search :
 https://user-images.githubusercontent.com/59255371/167994939-21438c07-acf6-4417-adad-7c86bb24de0e.mp4
 
-# 5.Checkout : add adress and visa card payment 
+# 5.Checkout : add address and visa card payment 
 ![Snapshot_3](https://user-images.githubusercontent.com/59255371/167995158-69997d64-f2fb-4d20-8b9e-77f9b3b0b5f4.png)
 ![Snapshot_4](https://user-images.githubusercontent.com/59255371/167995163-ba1cd5a4-a208-4c2e-af2e-69f44ba85a59.png)
 ![Snapshot_5](https://user-images.githubusercontent.com/59255371/167995171-c3171e43-9bee-4e44-941b-3733e552e071.png)
